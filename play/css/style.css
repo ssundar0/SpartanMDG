@@ -1,0 +1,89 @@
+form { margin: 0px 10px; }
+
+input{
+color:green;
+}
+
+h2 {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.container { max-width: 460px; }
+
+.divider {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.divider hr {
+  margin: 7px 0px;
+  width: 35%;
+}
+
+.left { float: left; }
+
+
+.right { float: right; }
+
+
+img{margin:4px 6px 4px 6px}
+
+ .short{
+	width:35%;
+	border-radius:5px;
+	border:1px solid grey;
+	background-color:#F4EDED;
+	font-size:20px;
+	font-weight:bold;
+	margin-top:10px;
+	margin-bottom:10px;
+	padding:6px;
+text-align:center;
+}
+.lsub{ 
+    padding: 10px 27px;
+    font-size: 20px;
+	font-bold:bold;
+    margin: 4px 2px;
+	background : #ccc;
+    border-radius: 5px;
+}
+
+.img-responsive.img-center {
+  margin: 0 auto;
+}
+.navbar-inverse .navbar-nav>li>a{color:#ddd}
+.navbar-inverse .navbar-brand{color:#ddd}
+
+
+
+/* rules */
+.content {
+	position: relative;
+	width:100%;
+	height:650px;
+        margin-top: 20px;
+	background:rgba(0,0,0,0.81);
+}
+.rule {
+	width:100%;
+	
+}
+.rule h2
+{
+    font-size:40px;
+	text-align:center;
+    color:#5594C7;
+}
+.rule ul{
+    margin-top:20px;
+	font-size:20px;
+	margin-left:50px;
+    color:black;
+}
+.rule li{
+	margin-top:20px;
+}
+
